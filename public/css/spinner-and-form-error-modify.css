@@ -1,0 +1,86 @@
+.smaller-italic-bold {
+    font-size: smaller;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.has-error-modify > .control-label {
+    font-weight: bold;
+    color: #C60001;
+}
+
+.has-error-modify > .form-control {
+    border-color: #C60001;
+}
+
+/* Spinner for loading */
+@keyframes spinner {
+    to {transform: rotate(360deg);}
+}
+
+.spinner:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: calc(100% + 7px);
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    border-radius: 50%;
+    border-top: 2px solid #07d;
+    border-right: 2px solid transparent;
+    animation: spinner .6s linear infinite;
+}
+
+.widget-control-spinner:before {
+    content: '';
+    box-sizing: border-box;
+    position: absolute;
+    top: calc((100% - 11px) / 2);
+    left: -4px;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    border-top: 2px solid #07d;
+    border-right: 2px solid transparent;
+    animation: spinner .6s linear infinite;
+}
+
+/* Media Query For Horizontal Form / Inline Form */
+@media (min-width: 768px) {
+    .form-horizontal-spinner:before {
+        content: '';
+        box-sizing: border-box;
+        position: absolute;
+        top: calc((100% + 7px) / 2);
+        left: 98%;
+        width: 20px;
+        height: 20px;
+        margin-top: -10px;
+        margin-left: -10px;
+        border-radius: 50%;
+        border-top: 2px solid #07d;
+        border-right: 2px solid transparent;
+        animation: spinner .6s linear infinite;
+    }
+}
+
+@media (max-width: 768px) {
+    .form-horizontal-spinner:before {
+        content: '';
+        box-sizing: border-box;
+        position: absolute;
+        top: 50%;
+        left: 98%;
+        width: 20px;
+        height: 20px;
+        margin-top: -10px;
+        margin-left: -10px;
+        border-radius: 50%;
+        border-top: 2px solid #07d;
+        border-right: 2px solid transparent;
+        animation: spinner .6s linear infinite;
+    }
+}

@@ -1,0 +1,103 @@
+[10-Mar-2016 13:36:31 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32 bytes) in /home/dealjava/app/admin.dealjava.com/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 296
+[10-Mar-2016 13:46:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''sales.receipt'' (T_CONSTANT_ENCAPSED_STRING) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/SearchOrderController.php on line 52
+[10-Mar-2016 13:47:06 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''sales.receipt'' (T_CONSTANT_ENCAPSED_STRING) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/SearchOrderController.php on line 52
+[09-Apr-2016 11:27:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sales' (T_VARIABLE) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 38
+[09-Apr-2016 11:27:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sales' (T_VARIABLE) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 38
+[09-Apr-2016 11:27:23 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$sales' (T_VARIABLE) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 38
+[14-Jun-2016 10:05:15 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''Route' (T_ENCAPSED_AND_WHITESPACE) in /home/dealjava/app/admin.dealjava.com/app/Http/routes.php on line 298
+[21-Jun-2016 13:03:43 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''sales_detail.sales_' (T_ENCAPSED_AND_WHITESPACE) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 709
+[21-Jun-2016 13:04:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''sales_detail.sales_' (T_ENCAPSED_AND_WHITESPACE) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 709
+[21-Jun-2016 13:04:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 368
+[21-Jun-2016 13:04:48 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 368
+[21-Jun-2016 13:04:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 368
+[21-Jun-2016 16:34:11 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/frame.cls.php on line 1071
+[21-Jun-2016 16:35:04 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/lib/class.pdf.php on line 4000
+[21-Jun-2016 16:35:54 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/line_box.cls.php on line 82
+[21-Jun-2016 16:36:50 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/style.cls.php on line 1322
+[22-Jun-2016 15:28:57 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/frame.cls.php on line 323
+[22-Jun-2016 15:32:15 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/frame.cls.php on line 367
+[22-Jun-2016 15:35:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/lib/class.pdf.php on line 4027
+[22-Jun-2016 15:45:47 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/font_metrics.cls.php on line 86
+[22-Jun-2016 16:00:54 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/lib/class.pdf.php on line 4007
+[22-Jun-2016 16:15:40 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/frame.cls.php on line 367
+[22-Jun-2016 16:16:30 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/style.cls.php on line 729
+[22-Jun-2016 16:16:50 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/lib/class.pdf.php on line 4001
+[22-Jun-2016 16:17:43 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/lib/class.pdf.php on line 4001
+[22-Jun-2016 16:22:03 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/include/frame.cls.php on line 321
+[22-Jun-2016 16:52:10 Asia/Jakarta] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/dealjava/app/admin.dealjava.com/vendor/dompdf/dompdf/lib/class.pdf.php on line 4000
+[24-Jun-2016 16:24:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:24:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:24:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:24:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:24:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:25:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:25:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:25:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:25:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:26:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:26:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:26:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:26:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:27:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:24 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[24-Jun-2016 16:28:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/OrdersController.php on line 42
+[13-Jul-2016 14:37:46 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 39
+[13-Jul-2016 14:37:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 39
+[13-Jul-2016 15:03:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:07:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:08:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:09:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:09:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:10:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:10:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ';' in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 23
+[13-Jul-2016 15:18:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::getQuery() in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[13-Jul-2016 15:18:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method Illuminate\Database\Query\Expression::getQuery() in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[13-Jul-2016 15:22:24 Asia/Jakarta] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[13-Jul-2016 15:22:41 Asia/Jakarta] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[13-Jul-2016 15:25:39 Asia/Jakarta] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[13-Jul-2016 15:25:48 Asia/Jakarta] PHP Fatal error:  Call to a member function getQuery() on a non-object in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Engines/EloquentEngine.php on line 26
+[13-Jul-2016 16:48:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 25
+[13-Jul-2016 16:48:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/dealjava/app/admin.dealjava.com/app/AndroidLogs.php on line 25
+[14-Jul-2016 17:53:09 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Helper.php(82) : eval()'d code on line 1
+[14-Jul-2016 17:53:10 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Helper.php(82) : eval()'d code on line 1
+[14-Jul-2016 17:53:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'd' (T_STRING) in /home/dealjava/app/admin.dealjava.com/vendor/yajra/laravel-datatables-oracle/src/yajra/Datatables/Helper.php(82) : eval()'d code on line 1
+[20-Aug-2016 12:51:44 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/BannerController.php on line 126
+[20-Aug-2016 12:51:55 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/BannerController.php on line 126
+[20-Aug-2016 12:53:46 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/BannerController.php on line 126
+[07-Sep-2016 15:35:23 Asia/Jakarta] PHP Fatal error:  Class 'App\SalesShipping' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1833
+[14-Sep-2016 15:24:30 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:24:49 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:25:39 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:26:07 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:26:19 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:31:05 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:31:50 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:38:32 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:40:14 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:41:26 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:47:14 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[14-Sep-2016 15:47:55 Asia/Jakarta] PHP Fatal error:  Class 'App\Http\Controllers\Auth' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RefundController.php on line 48
+[19-Sep-2016 17:52:52 Asia/Jakarta] PHP Fatal error:  Class 'App\ProductProductTags' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 294
+[19-Sep-2016 17:53:37 Asia/Jakarta] PHP Fatal error:  Class 'App\ProductProductTags' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 294
+[19-Sep-2016 17:53:44 Asia/Jakarta] PHP Fatal error:  Class 'App\ProductProductTags' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 294
+[19-Sep-2016 17:54:02 Asia/Jakarta] PHP Fatal error:  Class 'App\ProductProductTags' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 294
+[19-Sep-2016 17:55:22 Asia/Jakarta] PHP Fatal error:  Class 'App\ProductProductTags' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 294
+[19-Sep-2016 18:03:07 Asia/Jakarta] PHP Fatal error:  Class 'App\ProductProductTags' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 294
+[23-Sep-2016 13:41:07 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:08 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:10 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:12 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:16 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:17 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:19 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:21 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:25 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:27 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:28 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:29 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900
+[23-Sep-2016 13:41:31 Asia/Jakarta] PHP Fatal error:  Class 'App\MemberLevel' not found in /home/dealjava/app/admin.dealjava.com/app/Http/Controllers/RouteController.php on line 1900

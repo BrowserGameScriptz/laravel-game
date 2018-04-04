@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap_calendar",
+  "homepage": "https://github.com/xero/bootstrap_calendar",
+  "description": "A simple calendar plugin for jquery and twitter bootstrap. works inline, in dropdowns, and in the responsive navbar!",
+  "main": [
+    "./bootstrap_calendar/css/bootstrap_calendar.css",
+    "./bootstrap_calendar/js/bootstrap_calendar.js"
+  ],
+  "keywords": [
+    "bootstrap",
+    "calendar",
+    "jquery"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  },
+  "_release": "796c6621ce",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "796c6621ce7e50865be72871f87e6c732906d6fa"
+  },
+  "_source": "https://github.com/xero/bootstrap_calendar.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/xero/bootstrap_calendar.git"
+}
