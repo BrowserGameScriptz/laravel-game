@@ -2,41 +2,20 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="{{asset('css/pingpong/pingpong.css')}}">
 <title>Ping Pong</title>
-<style>
-#playground{
-background: #e0ffe0;
-width: 400px;
-height: 200px;
-position: relative;
-overflow: hidden;
-}
-#ball {
-background: #fbb;
-position: absolute;
-width: 20px;
-height: 20px;
-left: 150px;
-top: 100px;
-border-radius: 10px;
-}
-.paddle {
-background: #bbf;
-left: 50px;
-top: 70px;
-position: absolute;
-width: 30px;
-height: 70px;
-}
-#paddleB {
-left: 320px;
-}
-</style>
 </head>
-<body>
 <header>
 <h1>Ping Pong</h1>
 </header>
+<body>
+	<div id="game">
+		<div id="playground">
+			<div id="paddleA" class="paddle"></div>
+			<div id="paddleB" class="paddle"></div>
+			<div id="ball"></div>
+		</div>
+	</div>
 <footer>
 This is an example of creating a Ping Pong Game.
 </footer>
@@ -62,6 +41,7 @@ This is an example of creating a Ping Pong Game.
 <script src="{{ asset('js/app.js') }}"></script>
 <script src="{{ asset('vendor/eonasdan-bootstrap-datetimepicker/src/js/bootstrap-datetimepicker.js') }}"></script>
 <script src="{{ asset('vendor/select2/select2.js') }}"></script>
+<script src="{{ asset('js/pingpong/pingpong.js')}}"></script>
 <script>
 $(function(){
 alert("Welcome to the Ping Pong battle.");
